@@ -15,7 +15,7 @@ I'm currently learning Java, Jsp, Servlet, Spring Boot, HTML, CSS, React.JS, Doc
 - <b>Technologies:</b> Spring Boot, ReactJS, NodeJS, HTML, CSS, MySQL
 
 ## ⚡ Fun fact
-I have a shiny BIG bold head, which is way more brighter than my future.
+I have a shiny BIG bald head, which is way more brighter than my future.
 
 ## 📝 Blogs and writing
 I've very active, writing content regularly to at least one of these.
